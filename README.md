@@ -158,7 +158,9 @@ print("Selected Features: ")
 print(selected_features)
 ```
 
-![image](https://github.com/sabithapaulraj/ODD2023-Datascience-Ex-07/assets/118343379/00b8b677-9dbf-4ef4-82f0-55896385c88c)
+
+![image](https://github.com/sabithapaulraj/ODD2023-Datascience-Ex-07/assets/118343379/be4cc123-8444-417c-ad0e-2a63e00483af)
+
 
 ```python
 import pandas as pd
